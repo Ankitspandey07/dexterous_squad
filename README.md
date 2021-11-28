@@ -2,8 +2,8 @@
 
 Semicolon- Smart Lightning Prediction and Alert System
 
-ℹ️ Project information
-<h1> Project Name: Smart Lightning Prediction and Alert System </h1>
+ℹ️ Project Information
+<h1> Project Title: Smart Lightning Prediction and Alert System </h1>
 <h4> Short Project Description: An Android and Web app to actively predict the occurrence of lightning strike in an area using Web scraping and Machine Learning algorithms to alert its users via automated Calls / SMS in time. </h4> 
 <div>
 <h3>Team Name: Dexterous Squad</h3>
@@ -16,8 +16,8 @@ Semicolon- Smart Lightning Prediction and Alert System
 <div>  
 <!-- Demo Link: http://13.126.31.37:8000 -->
 <p>PPT : https://docs.google.com/presentation/d/1P-GhxJeBAwd7eiKPjVNY_078hfEfpzb5EgUCDn6sRIk/edit?usp=sharing</p>
-<p>Demo : ####################</p>
-<p>Repository Link: ############</p>
+<p>Demo : https://youtu.be/D76jnpLPZBQ</p>
+<p>Repository Link:https://github.com/ANKITSPANDEY/dexterous_squad</p>
 </div>    
 
 
