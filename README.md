@@ -1,10 +1,10 @@
 # dexterous_squad
-
-Semicolon- Smart Lightning Prediction and Alert System
+<h4>SAP Semicolon; Hackathon 5.0</h4>
 
 ℹ️ Project Information
-<h1> Project Title: Smart Lightning Prediction and Alert System </h1>
-<h4> Short Project Description: An Android and Web app to actively predict the occurrence of lightning strike in an area using Web scraping and Machine Learning algorithms to alert its users via automated Calls / SMS in time. </h4> 
+<h2> Project Title: Smart Lightning Prediction and Alert System </h2>
+
+<h5> Short Project Description: An Android and Web app to actively predict the occurrence of lightning strike in an area using Web scraping and Machine Learning algorithms to alert its users via automated Calls / SMS in time. </h5> 
 <div>
 <h3>Team Name: Dexterous Squad</h3>
   <h6>Team Members:</h6>
