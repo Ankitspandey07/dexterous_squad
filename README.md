@@ -15,7 +15,7 @@
 </div>  
 <div>  
 <!-- Demo Link: http://13.126.31.37:8000 -->
-<p>PPT : https://docs.google.com/presentation/d/1P-GhxJeBAwd7eiKPjVNY_078hfEfpzb5EgUCDn6sRIk/edit?usp=sharing</p>
+<p>PPT : https://docs.google.com/presentation/d/1f4EBU8t_GeO4YJT9y2c9_1YBQ1MccbSm/edit?usp=sharing&ouid=113854547831134548384&rtpof=true&sd=true</p>
 <p>Demo : https://drive.google.com/drive/folders/1_yztwLdDDgCURO8WwpduQaQ_3DGETVgm?usp=sharing</p>
 <p>Repository Link:https://github.com/ANKITSPANDEY/dexterous_squad</p>
 </div>    
